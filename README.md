@@ -8,7 +8,7 @@ Feishu/Lark (飞书) channel plugin for [Clawdbot](https://github.com/clawdbot/c
 ```bash
 curl -O https://registry.npmjs.org/@m1heng-clawd/feishu/-/feishu-0.1.1.tgz  
 ```
-解压到C:\Users\用户主目录\.clawdbot\extensions下重命名为feishu
+解压到C:\Users\用户主目录\\.clawdbot\extensions下重命名为feishu
 
 ```bash
 cd feishu
